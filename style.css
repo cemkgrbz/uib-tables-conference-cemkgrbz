@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+header {
+    height: 13rem;
+    background-color: #2D3F52;
+    padding-top: 3rem;
+}
+.header-div {
+    border-top: 3px solid #60a998;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    
+    padding-top: 1.5rem;
+    text-transform: uppercase;
+    line-height: 30px;
+    color: #60a998;
+}
+
+.header-div p {
+    text-align: right;
+    padding-top: 3rem;
+    color: rgb(173, 173, 173);
+    font-size: 14px;
+}
+
+nav ul{
+    text-align: right;
+    width: 70%;
+    margin: auto;
+    padding-top: 1.5rem;
+}
+
+ li {
+    display: inline-block;
+    text-align: right;
+    padding-left: 0.5rem;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #60a998;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.schedule-header {
+    height: 7rem;
+    background: linear-gradient(90deg, rgba(148,220,174,1) 0%, rgba(241,244,206,1) 61%);
+}
+
+.schedule-div {
+    width: 70%;
+    margin: auto;
+    padding-top: 2rem;
+    color: rgb(105, 105, 105);
+}
+
+.schedule-div h3 {
+    padding-bottom: 1rem;
+}
+
+.schedule-div p {
+    font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 3rem auto;
+    font-size: 12px;
+    color: rgb(114, 114, 114);
+    
+}
+
+td {
+    padding: 1rem 1rem 1rem 0;
+    border-collapse: collapse;
+}
+
+.first-row {
+    text-align: right;
+}
+
+.inner-border {
+    
+    border-bottom: 1px solid rgb(173, 173, 173);
+}
+
+h4 {
+    padding-bottom: 0.5rem;
+}
